@@ -15,7 +15,7 @@ pipeline {
         KUBECONFIG_CREDENTIAL_ID = 'deploy-test'
         REGISTRY = 'docker.io'
         DOCKERHUB_NAMESPACE = 'mochen2020'
-        GITHUB_ACCOUNT = 'MoGD2018'
+        GITHUB_ACCOUNT = 'mogd2018'
         APP_NAME = 'devops-java-sample'
     }
 
